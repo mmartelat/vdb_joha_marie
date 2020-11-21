@@ -1,0 +1,9 @@
+https://www.w3resource.com/machine-learning/scikit-learn/iris/python-machine-learning-scikit-learn-iris-visualization-exercise-19.php
+
+https://stackoverflow.com/questions/54272686/label-the-plot-legend-with-the-classes-in-that-column
+
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+https://towardsdatascience.com/dimension-reduction-techniques-with-python-f36ca7009e5c
+
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
